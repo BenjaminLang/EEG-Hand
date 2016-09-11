@@ -4,7 +4,7 @@ Created on Sun Jul 17 14:59:33 2016
 
 @author: Ben
 """
-
+#script to convert .muse file type to .csv file type
 import subprocess
 
 for i in range(31,39):
